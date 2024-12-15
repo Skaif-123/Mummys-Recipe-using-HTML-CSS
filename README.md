@@ -34,16 +34,12 @@ To run this project, you'll need:
    ```bash
    git clone https://github.com/Skaif-123/Mummys-Recipe-using-HTML-CSS.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd recipe-website
-   ```
-3. Open the `index.html` file in your browser to view the website.
+
+2. Open the `index.html` file in your browser to view the website.
 
 ## Folder Structure
 
 ```
-recipe-website/
 ├── index.html      # Main HTML file
 ├── style.css       # Stylesheet for the project
 ├── gulabJamun.jpeg # Image for Gulab Jamun
